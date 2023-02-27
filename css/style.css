@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+td, td > button {
+    width: 40px;
+    height: 40px;
+}
+
+td {
+    border: solid black 1px;
+    text-align: center;
+    font-family: Consolas, monospace;
+    font-weight: bolder;
+}
+
+table {
+    margin: 10px auto;
+    border-collapse: collapse;
+}
+
+#game {
+    margin: 60px;
+}
